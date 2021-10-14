@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "237530520298",
+    "project_id": "caju-receitas",
+    "storage_bucket": "caju-receitas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237530520298:android:5526e8d61ab448ffb0d593",
+        "android_client_info": {
+          "package_name": "br.unicamp.cajureceitas.projeto_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237530520298-phc2lk6gln400r13ce4ppbs3185cstri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2tD5nR4RD7gv-_k7yLp75nzHxN6HhXzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237530520298-phc2lk6gln400r13ce4ppbs3185cstri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
